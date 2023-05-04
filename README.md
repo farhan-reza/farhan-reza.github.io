@@ -11,3 +11,5 @@ this project invovlves html, css, javascript, and python as the main tools
 git and github work together to ease the development of projects demanding collaboration
 
 ReadMe involves what describe the project
+
+working with git and github together can sometime be complicate, especially in case of pushing branch to github
